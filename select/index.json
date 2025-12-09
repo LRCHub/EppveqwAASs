@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "JUMP IN",
+  "base_artist": "めぐみん(CV:高橋李依)、ゆんゆん(CV:豊崎愛生)",
+  "createdAt": "2025-12-09T09:39:43.530966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jump In",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/01_Jump_In_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jump in the River",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/02_Jump_in_the_River_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jump in the River",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/03_Jump_in_the_River_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jump In The Fire",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/04_Jump_In_The_Fire_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jump In The Fire",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/05_Jump_In_The_Fire_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jump In The Fire - Remastered",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/06_Jump_In_The_Fire_-_Remastered_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jump In the Fire (Live at Espace Balard, Paris, France – Feb. 9th, 1984)",
+      "artist": "Metallica",
+      "has_synced": false,
+      "path": "select/07_Jump_In_the_Fire_(Live_at_Espace_Balard,_Paris,_France_–_Feb._9th,_1984)_Metallica.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jump in the River",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/08_Jump_in_the_River_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jump In The Fire",
+      "artist": "Dee Dee Ramone",
+      "has_synced": false,
+      "path": "select/09_Jump_In_The_Fire_Dee_Dee_Ramone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jump in the Line",
+      "artist": "Harry Belafonte",
+      "has_synced": true,
+      "path": "select/10_Jump_in_the_Line_Harry_Belafonte.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jump In The Line",
+      "artist": "Harry Belafonte",
+      "has_synced": true,
+      "path": "select/11_Jump_In_The_Line_Harry_Belafonte.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jump In The Line",
+      "artist": "Harry Belafonte",
+      "has_synced": true,
+      "path": "select/12_Jump_In_The_Line_Harry_Belafonte.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jump In My Car",
+      "artist": "Chris Spedding",
+      "has_synced": false,
+      "path": "select/13_Jump_In_My_Car_Chris_Spedding.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUMP IN",
+      "artist": "めぐみん (CV: 高橋李依), ゆんゆん (CV: 豊崎愛生)",
+      "has_synced": false,
+      "path": "select/pl_01_JUMP_IN_めぐみん_(CV__高橋李依),_ゆんゆん_(CV__豊崎愛生).txt"
+    }
+  ]
+}
